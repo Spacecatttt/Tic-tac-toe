@@ -1,0 +1,85 @@
+[
+  {
+    "$type": "usualGame",
+    "Rating": 0,
+    "Player1": null,
+    "Player2": null,
+    "Winner": null
+  },
+  {
+    "$type": "trainingGame",
+    "Rating": 0,
+    "Player1": {
+      "$type": "usualAc",
+      "Name": "Common",
+      "Score": 10,
+      "GamesCount": 2,
+      "Wins": 1
+    },
+    "Player2": {
+      "$type": "usualAc",
+      "Name": "Artem",
+      "Score": 0,
+      "GamesCount": 2,
+      "Wins": 1
+    },
+    "Winner": "Artem"
+  },
+  {
+    "$type": "usualGame",
+    "Rating": 10,
+    "Player1": {
+      "$type": "usualAc",
+      "Name": "Common",
+      "Score": 10,
+      "GamesCount": 2,
+      "Wins": 1
+    },
+    "Player2": {
+      "$type": "usualAc",
+      "Name": "Artem",
+      "Score": 0,
+      "GamesCount": 2,
+      "Wins": 1
+    },
+    "Winner": "Common"
+  },
+  {
+    "$type": "usualGame",
+    "Rating": 10,
+    "Player1": {
+      "$type": "usualAc",
+      "Name": "fsdf",
+      "Score": 0,
+      "GamesCount": 2,
+      "Wins": 0
+    },
+    "Player2": {
+      "$type": "usualAc",
+      "Name": "Artem",
+      "Score": 20,
+      "GamesCount": 4,
+      "Wins": 3
+    },
+    "Winner": "Artem"
+  },
+  {
+    "$type": "usualGame",
+    "Rating": 10,
+    "Player1": {
+      "$type": "usualAc",
+      "Name": "fsdf",
+      "Score": 0,
+      "GamesCount": 2,
+      "Wins": 0
+    },
+    "Player2": {
+      "$type": "usualAc",
+      "Name": "Artem",
+      "Score": 20,
+      "GamesCount": 4,
+      "Wins": 3
+    },
+    "Winner": "Artem"
+  }
+]

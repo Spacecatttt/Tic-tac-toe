@@ -1,0 +1,51 @@
+[
+  {
+    "$type": "usualAc",
+    "Name": "Common",
+    "Score": 10,
+    "GamesCount": 2,
+    "Wins": 1
+  },
+  {
+    "$type": "vipAc",
+    "Name": "Vip",
+    "Score": 30,
+    "GamesCount": 0,
+    "Wins": 0
+  },
+  {
+    "$type": "usualAc",
+    "Name": "Artem",
+    "Score": 20,
+    "GamesCount": 4,
+    "Wins": 3
+  },
+  {
+    "$type": "vipAc",
+    "Name": "",
+    "Score": 10,
+    "GamesCount": 0,
+    "Wins": 0
+  },
+  {
+    "$type": "vipAc",
+    "Name": "",
+    "Score": 10,
+    "GamesCount": 0,
+    "Wins": 0
+  },
+  {
+    "$type": "vipAc",
+    "Name": "",
+    "Score": 10,
+    "GamesCount": 0,
+    "Wins": 0
+  },
+  {
+    "$type": "usualAc",
+    "Name": "fsdf",
+    "Score": 0,
+    "GamesCount": 2,
+    "Wins": 0
+  }
+]
